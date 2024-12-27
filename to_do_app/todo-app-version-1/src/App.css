@@ -1,0 +1,12 @@
+.todo-container{
+  margin-top: 10%;
+  margin-left: 20%;
+  padding: 10px;
+  min-width: 1000px;
+  background-color: antiquewhite;
+  width: 800px;
+  border-radius: 10px;
+}
+.container{
+  margin: 15px;
+}
