@@ -3,8 +3,8 @@ function TodoItem() {
   let TodoDate = "01/01/2000";
 
   return (
-    <div className="container text-center">
-      <div className="row">
+    <div className="container">
+      <div className="row kg-row">
         <div className="col-6">{TodoName}</div>
         <div className="col-4">{TodoDate}</div>
         <div className="col-2">

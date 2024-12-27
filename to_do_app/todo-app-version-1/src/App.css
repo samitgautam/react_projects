@@ -1,12 +1,26 @@
-.todo-container{
-  margin-top: 10%;
-  margin-left: 20%;
-  padding: 10px;
-  min-width: 1000px;
+.todo-container {
   background-color: antiquewhite;
-  width: 800px;
-  border-radius: 10px;
+  margin-top: 20px;
 }
-.container{
+span {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 550;
+  font-size: 45px;
+  margin: 10px;
+}
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.kg-row {
   margin: 15px;
+}
+.btn {
+  min-width: 80px;
+  width: 100%;
 }

@@ -1,4 +1,4 @@
 function AppName(){
-    return <h1>TO-DO REACT APP</h1>
+    return <span>TO-DO REACT APP</span>
 }
 export default AppName;

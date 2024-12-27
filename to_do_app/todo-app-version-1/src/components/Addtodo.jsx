@@ -1,7 +1,7 @@
 function Addtodo() {
   return (
     <div className="container text-center">
-      <div className="row">
+      <div className="row kg-row">
         <div className="col-6">
           <input type="text" placeholder="Enter the task here..." />
         </div>
