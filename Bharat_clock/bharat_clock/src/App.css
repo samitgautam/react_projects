@@ -1,0 +1,21 @@
+.page-body{
+  background-color: antiquewhite;
+  font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+  font-weight: 600;
+  font-size: 45px;
+  margin: 5px;
+}
+.moto_text{
+  font-size: 28px;
+}
+.timeAndDate{
+  
+}
+.TimeDateText{
+  font-size: 24px;
+}
+.time-text,.date-text{
+  font-weight: 700;
+}
